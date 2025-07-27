@@ -55,6 +55,6 @@ Now you can launch your scripts;
 python app.py 
 ```
 
-If you use the provided sample video, your script is going to look as shown in the picture below;
+
 
 

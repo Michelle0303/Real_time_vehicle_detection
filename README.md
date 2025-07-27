@@ -1,10 +1,10 @@
 <samp>
     
-# [Real-time-Vehicle-Dection-Python]
+# Real-time-Vehicle-Dection-Python
 
 This repository consist of a source code of script to detect cars in a video/camera frame and then draw rectangaluar boxes around them.
 
-The **ML algorithms** used for detecting cars and bounding boxes coordinates is a pretrained cascade model [Haarcascade car](https://github.com/Michelle0303/Real-time-Vehicle-Dection-Python/blob/master/haarcascade_car.xml).
+The **ML algorithms** used for detecting cars and bounding boxes coordinates is a pretrained cascade model [Haarcascade car](https://github.com/Michelle0303/Real-time-vehicle-dection-/blob/master/haarcascade_car.xml).
 
 ## Getting started
 
@@ -26,7 +26,7 @@ pip install opencv-python
 
 ## Sample video
 
-The sample video used in this project is [**cars.mp4**](https://github.com/Michelle0303/Real-time-Vehicle-Dection-Python/blob/master/cars.mp4) which will come as you download or clone the repository, to load a different video with different filename, you might want to change the source code.
+The sample video used in this project is [**cars.mp4**](https://github.com/Michelle0303/Real-time-vehicle-dection/blob/master/cars.mp4) which will come as you download or clone the repository, to load a different video with different filename, you might want to change the source code.
 
 ```python
 def Simulator():
